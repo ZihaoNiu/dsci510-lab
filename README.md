@@ -1,2 +1,2 @@
 # dsci510-lab
-#Zihai Niu
+Zihai Niu's Lab.
